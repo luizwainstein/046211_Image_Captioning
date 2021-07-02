@@ -1,2 +1,2 @@
-# 046211_Image_Captioning
+# 046211 Project - Image Captioning
 Final Project 046211
