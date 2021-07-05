@@ -61,6 +61,7 @@ Check out the notebook for additional information.
 
 # Folders
 * Examples: a few sample images from the Flickr30k dataset.
+* Checkpoints: checkpoints to the trained models.
 * Code: .py and .ipynb files with the code.
 
 # References
