@@ -61,6 +61,7 @@ Check out the notebook for additional information.
 
 # Folders
 * Examples: a few sample images from the Flickr30k dataset.
+* Code: .py and .ipynb files with the code.
 
 # References
 [1] https://github.com/aladdinpersson/Machine-Learning-Collection/tree/master/ML/Pytorch/more_advanced/image_captioning
