@@ -38,8 +38,8 @@ Below are a few examples of the generated captions and the attention weights:
 # Usage
 * Fill in the following paths:
 ```python
-path_images="" #Dataset Images
-path_captions="" #Dataset Captions
+path_images="/content/flickr8k/Images" #Dataset Images
+path_captions="/content/flickr8k/captions.txt" #Dataset Captions
 path_examples="" #Images to caption
 path_checkpoints="" #Model checkpoints
 ```
